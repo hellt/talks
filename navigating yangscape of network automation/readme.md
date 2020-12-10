@@ -1,0 +1,3 @@
+Network automation as a discipline has evolved rapidly over the last few years. Not that long ago we were pushing configuration lines templated with Jinja over SSH and thought of it as Network Automation state of the art. Nowadays, we use programming languages and machine generate pre-validated configuration structures that are pushed out over sophisticated gRPC interfaces.
+
+One of the key enablers for this leapfrog was the YANG data modelling language that powers leading Network Operating Systems. In this talk we will explore how exactly YANG enables Model-Driven Interfaces and what open-source tools are available to engineers to navigate the vast sea of YANG models.
